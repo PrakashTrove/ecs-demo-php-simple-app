@@ -16,7 +16,6 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
-                <h1> By Prakash</h1>
                 <h2>Congratulations</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
@@ -28,6 +27,7 @@
 
             </div>
         </div>
+        <h3> By Prakash</h3>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
